@@ -1,2 +1,2 @@
-# toddy
-Dripo firmware with only offline mode
+# Scotch
+Scotch (original version) with both Online and Offline mode.
